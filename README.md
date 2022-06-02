@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alekhyaroy
-- 👀 I’m interested in JavaScript and python
+- 👀 I’m interested in Dart, R and python
 - 🌱 I’m currently learning computer science and information technology
 - 📫 How to reach me : email: roy.alekhya@gmail.com
